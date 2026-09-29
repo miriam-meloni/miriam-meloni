@@ -1,6 +1,6 @@
 # Hi, I'm Miriam 👋
 
-I am a cancer biologist with a strong experimental background and a growing focus on computational biology, multi-omics and translational research. I enjoy using data to answer biological questions and to uncover patterns that can help explain tumor behavior.
+I am a cancer biologist with a strong experimental background who is progressively moving from wet-lab research toward increasingly independent computational work. My current focus is on computational biology, multi-omics and translational research, using data to answer biological questions and uncover patterns that can help explain tumor behavior.
 
 ## 🔬 Research interests
 - Cancer bioinformatics
